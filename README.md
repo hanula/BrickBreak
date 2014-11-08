@@ -7,6 +7,7 @@ Demo at <http://stuff.hanula.com/brickbreak/>
 
 Game
 ----
+![screenshot](https://raw.githubusercontent.com/hanula/BrickBreak/master/screenshot1.png)
 
 Use the paddle and ball to break all the bricks.
 
